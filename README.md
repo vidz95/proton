@@ -16,6 +16,8 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
+Postgress Sql
+Taiga
 # Database
 Here,we used Mysql DB 
 sql dump file:
